@@ -2,8 +2,7 @@
 
  
 *(**Add a screenshot**)*
-
-A command-line trivia game built in Python that fetches questions in real-time from the Open Trivia Database API. This project was built to demonstrate core Python fundamentals, API integration, and data handling.
+<br><br>A command-line trivia game built in Python that fetches questions in real-time from the Open Trivia Database API. This project was built to demonstrate core Python fundamentals, API integration, and data handling.
 
 ---
 

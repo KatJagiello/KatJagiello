@@ -5,7 +5,7 @@ This portfolio showcases my projects across Python, SQL, and BI dashboards.
 
 ## 🚀 Projects
 
-- [Trivia](../3_Python/APIs_Trivia) – Python project using APIs to build a trivia quiz app. 
+- [Trivia](https://github.com/KatJagiello/KatJagiello/tree/main/3_Python/APIs_Trivia) – Python project using APIs to build a trivia quiz app. 
 - work in progress...
 
 
