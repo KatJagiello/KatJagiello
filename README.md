@@ -1,18 +1,17 @@
-### Hi there 👋
+# 📊 Kat Jagiello – Data Portfolio
 
-<!--
-**KatJagiello/KatJagiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Kat!  
+This portfolio showcases my projects across Python, SQL, and BI dashboards.  
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-https://rahuldkjain.github.io/gh-profile-readme-generator/
+- [Trivia](../Trivia) – Python project using APIs to build a trivia quiz app. 
+- work in progress...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills Demonstrated
+- Python (Pandas, NumPy, Matplotlib, APIs)
+- SQL (MySQL, queries, joins, aggregations)
+- Data Visualisation (Power BI, Excel)
+- Machine Learning (scikit-learn)
+- Data Cleaning & Storytelling
