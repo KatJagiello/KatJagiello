@@ -1,7 +1,7 @@
 # Python API Trivia Quiz Game
 
  
-*(**Add a screenshot**)*
+<img width="599" height="723" alt="image" src="https://github.com/user-attachments/assets/a492bb84-ca7d-410c-875a-9bd12261116d" />
 
 A command-line trivia game built in Python that fetches questions in real-time from the Open Trivia Database API. This project was built to demonstrate core Python fundamentals, API integration, and data handling.
 
