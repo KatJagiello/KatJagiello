@@ -5,13 +5,13 @@ This portfolio showcases my projects across Python, SQL, and BI dashboards.
 
 ## 🚀 Projects
 
-- [Trivia](../4_APIs/Trivia) – Python project using APIs to build a trivia quiz app. 
+- [Trivia](../3_Python/APIs_Trivia) – Python project using APIs to build a trivia quiz app. 
 - work in progress...
 
 
 ## 🛠️ Skills Demonstrated
-- Python (Pandas, NumPy, Matplotlib, APIs)
-- SQL (MySQL, queries, joins, aggregations)
-- Data Visualisation (Power BI, Excel)
-- Machine Learning (scikit-learn)
-- Data Cleaning & Storytelling
+*   **Python:** Pandas, NumPy, Matplotlib, APIs (Requests)
+*   **SQL:** MySQL (Joins, Aggregations, Window Functions)
+*   **Data Visualisation:** Power BI, Excel
+*   **Machine Learning:** Scikit-learn (principles)
+*   **Core Competencies:** Data Cleaning, Data Storytelling, Problem-Solving
