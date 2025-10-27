@@ -23,7 +23,7 @@ def get_api_data(url):
 
 
 # 1. Setup and Get All Categories for the user to view
-print("Welcome! Connecting to the Open Trivia Database...")
+print("\nWelcome! Connecting to the Open Trivia Database...")
 
 categories_url = "https://opentdb.com/api_category.php"
 categories_data = get_api_data(categories_url)
